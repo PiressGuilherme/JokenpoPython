@@ -1,6 +1,6 @@
 # JokenpoPython
 
-The code is a Python program that simulates a rock-paper-scissors tournament among multiple players.
+This code is a Python program that simulates a rock-paper-scissors tournament among multiple players.
 
 Import the pandas library for data manipulation, random for random operations, and math for mathematical functions.
 
